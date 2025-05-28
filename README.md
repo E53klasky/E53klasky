@@ -32,10 +32,10 @@ I am also an undergraduate research assistant under Dr. Ranka
 
 ```bash
 # Clone your project repository
-git clone https://github.com/eklasky/yourrepo.git
+git clone https://github.com/E53klasky/E53klasky.git
 
 # Navigate to the project folder
-cd yourrepo
+cd E53klasky
 
 # Install dependencies (customize based on your project)
 pip install -r requirements.txt
