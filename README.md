@@ -15,6 +15,7 @@
 ## 📖 About
 Hi, I’m Ethan Klasky, an engineering student passionate about high-performance computing, data analysis, and machine learning.  
 I work on projects involving numerical simulations, fluid dynamics, data compression, and visualization to improve scientific computing efficiency.
+I am also an undergraduate research assistant under Dr. Ranka
 
 ---
 
