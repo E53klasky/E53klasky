@@ -1,9 +1,8 @@
 # 🚀 Ethan Klasky's Research & Projects
-
 <p align="center">
   <img src="assets/simulation.gif" alt="Wave Simulation Demo" width="800"/>
 </p>
----
+
 
 ## 🎯 Table of Contents
 - [About](#about)
