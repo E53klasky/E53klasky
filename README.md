@@ -1,14 +1,10 @@
-# 🚀 Ethan Klasky's Awesome Project
-
-![GitHub stars](https://img.shields.io/github/stars/eklasky/yourrepo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/eklasky/yourrepo?style=social)
-![GitHub license](https://img.shields.io/github/license/eklasky/yourrepo)
+# 🚀 Ethan Klasky's Research & Projects
 
 ---
 
 ## 🎯 Table of Contents
 - [About](#about)
-- [Features](#features)
+- [Skills & Interests](#skills--interests)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,30 +13,30 @@
 ---
 
 ## 📖 About
-Hi! I’m Ethan Klasky.  
-This project is a cool and efficient solution to [briefly describe your project purpose].  
-I built this to solve [problem/challenge your project addresses] and make life easier.
+Hi, I’m Ethan Klasky, an engineering student passionate about high-performance computing, data analysis, and machine learning.  
+I work on projects involving numerical simulations, fluid dynamics, data compression, and visualization to improve scientific computing efficiency.
 
 ---
 
-## ✨ Features
-- ✅ Easy to use and understand  
-- ⚡ Optimized for speed and performance  
-- 🧠 Designed with best practices  
-- 🎨 Clean and maintainable code  
+## 💡 Skills & Interests
+- 🖥️ HPC & Parallel Computing (MPI, ADIOS2)  
+- 📊 Data Compression & Visualization (MGARD, ParaView)  
+- 🔢 Numerical Methods & PDE Solvers (Navier-Stokes)  
+- 🐍 Programming in Python, C++, and scripting with Bash  
+- 🔍 Research in fluid dynamics, energy optimization, and simulation accuracy  
 
 ---
 
 ## 🛠️ Installation
 
 ```bash
-# Clone this repository
+# Clone your project repository
 git clone https://github.com/eklasky/yourrepo.git
 
-# Go into the directory
+# Navigate to the project folder
 cd yourrepo
 
-# Install dependencies (adjust to your stack)
-npm install
-# or
+# Install dependencies (customize based on your project)
 pip install -r requirements.txt
+# or
+make install
