@@ -69,7 +69,7 @@ Converting CAESAR, a foundation model for scientific data compression, from Pyth
 ---
 
 ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=#E53klasky&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=E53klasky&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E53klasky&theme=tokyonight)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=E53klasky&theme=tokyonight&row=1)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=E53klasky&theme=tokyo-night)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E53klasky&layout=compact&theme=tokyonight)
