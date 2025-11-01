@@ -1,45 +1,76 @@
-# 🚀 Ethan Klasky's Research & Projects
+# Ethan Klasky
+
+**Advancing scientific data compression through high-performance computing and machine learning**
+
 <p align="center">
-  <img src="assets/simulation.gif" alt="Wave Simulation Demo" width="800"/>
+  <img src="assets/simulation.gif" alt="2D Lid-Driven Cavity Flow Simulation" width="800"/>
+  <br>
+  <em>2D lid-driven cavity streamline visualization - incompressible Navier-Stokes solver</em>
 </p>
 
+---
 
-## 🎯 Table of Contents
-- [About](#about)
-- [Skills & Interests](#skills--interests)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## About
+
+I'm an engineering student working at the intersection of high-performance computing, data compression, and machine learning. Currently, I'm focused on making cutting-edge compression techniques accessible to the scientific computing community through practical, performant implementations.
+
+### Current Research
+
+Undergraduate Research Assistant under Dr. Ranka, working on integrating advanced compression methods into production HPC workflows.
 
 ---
 
-## 📖 About
-Hi, I’m Ethan Klasky, an engineering student passionate about high-performance computing, data analysis, and machine learning.  
-I work on projects involving numerical simulations, fluid dynamics, data compression, and visualization to improve scientific computing efficiency.
-I am also an undergraduate research assistant under Dr. Ranka
+## Featured Projects
+
+### CAESAR C++ Implementation & ADIOS2 Integration
+
+Converting CAESAR, a foundation model for scientific data compression, from Python to C++ for production HPC environments. This work involves:
+
+- **C++ Port**: Translating the CAESAR compression model to high-performance C++ while maintaining accuracy and improving runtime efficiency
+- **ADIOS2 Integration**: Adding CAESAR as a native compression operator in ADIOS2, enabling seamless compression in large-scale scientific simulations
+- **HPC Optimization**: Designing for scalability and performance in distributed computing environments
+
+**Tech Stack**: C++, Python, ADIOS2, MPI
+
+**Impact**: Bringing state-of-the-art learned compression to production scientific workflows, enabling researchers to store and transfer massive simulation datasets more efficiently.
 
 ---
 
-## 💡 Skills & Interests
-- 🖥️ HPC & Parallel Computing (MPI, ADIOS2)  
-- 📊 Data Compression & Visualization (MGARD, ParaView)  
-- 🔢 Numerical Methods & PDE Solvers (Navier-Stokes)  
-- 🐍 Programming in Python, C++, and scripting with Bash  
-- 🔍 Research in fluid dynamics, energy optimization, and simulation accuracy  
+## Technical Expertise
+
+**High-Performance Computing**
+
+- Parallel computing with MPI
+- Data I/O optimization with ADIOS2
+- Performance profiling and optimization
+
+**Data Compression & Analysis**
+
+- Scientific data compression (MGARD, CAESAR)
+- Compression accuracy vs. ratio tradeoffs
+- Foundation models for compression
+
+**Numerical Computing**
+
+- PDE solvers (Navier-Stokes equations)
+- Computational fluid dynamics
+- Scientific visualization with ParaView
 
 ---
 
-## 🛠️ Installation
+## Research Interests
 
-```bash
-# Clone your project repository
-git clone https://github.com/E53klasky/E53klasky.git
+- Learned compression for scientific data
+- Scalable I/O systems for HPC
+- Fluid dynamics simulation and visualization
+- Energy-efficient scientific computing
+- Bridging ML and traditional HPC
 
-# Navigate to the project folder
-cd E53klasky
+---
 
-# Install dependencies (customize based on your project)
-pip install -r requirements.txt
-# or
-make install
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eklasky&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eklasky&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=eklasky&theme=tokyonight&row=1)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eklasky&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eklasky&layout=compact&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=eklasky&color=blue&style=flat-square)
