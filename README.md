@@ -1,69 +1,21 @@
 # Ethan Klasky
 
-**Advancing scientific data compression through high-performance computing and machine learning**
+**HPC software for scientific computing**
 
-<p align="center">
-  <img src="assets/simulation.gif" alt="2D Lid-Driven Cavity Flow Simulation" width="800"/>
-  <br>
-  <em>2D lid-driven cavity streamline visualization - incompressible Navier-Stokes solver</em>
-</p>
+I build efficient tools for large-scale scientific computing, combining high-performance computing and machine learning to improve how scientific data is processed and stored.
 
----
+## Current Work
 
-## About
+### CAESAR
 
-I'm an engineering student working at the intersection of high-performance computing, data compression, and machine learning. Currently, I'm focused on making cutting-edge compression techniques accessible to the scientific computing community through practical, performant implementations.
+Developing a high-performance C++ implementation of a learned scientific compression method.
 
-### Current Research
+- Bringing CAESAR from research code into a production HPC environment
+- Integrating CAESAR into scientific data workflows with ADIOS2
 
-Undergraduate Research Assistant under Dr. Ranka, working on integrating advanced compression methods into production HPC workflows.
+## Interests
 
----
-
-## Featured Projects
-
-### CAESAR C++ Implementation & ADIOS2 Integration
-
-Converting CAESAR, a foundation model for scientific data compression, from Python to C++ for production HPC environments. This work involves:
-
-- **C++ Port**: Translating the CAESAR compression model to high-performance C++ while maintaining accuracy and improving runtime efficiency
-- **ADIOS2 Integration**: Adding CAESAR as a native compression operator in ADIOS2, enabling seamless compression in large-scale scientific simulations
-- **HPC Optimization**: Designing for scalability and performance in distributed computing environments
-
-**Tech Stack**: C++, Python, ADIOS2, MPI
-
-**Impact**: Bringing state-of-the-art learned compression to production scientific workflows, enabling researchers to store and transfer massive simulation datasets more efficiently.
-
----
-
-## Technical Expertise
-
-**High-Performance Computing**
-
-- Parallel computing with MPI
-- Data I/O optimization with ADIOS2
-- Performance profiling and optimization
-
-**Data Compression & Analysis**
-
-- Scientific data compression (MGARD, CAESAR)
-- Compression accuracy vs. ratio tradeoffs
-- Foundation models for compression
-
-**Numerical Computing**
-
-- PDE solvers (Navier-Stokes equations)
-- Computational fluid dynamics
-- Scientific visualization with ParaView
-
----
-
-## Research Interests
-
-- Learned compression for scientific data
-- Scalable I/O systems for HPC
-- Fluid dynamics simulation and visualization
-- Energy-efficient scientific computing
-- Bridging ML and traditional HPC
-
----
+- High-performance computing
+- Scientific machine learning
+- Scientific data compression
+- Large-scale simulation workflows
