@@ -7,11 +7,7 @@ I build efficient tools for large-scale scientific computing, combining high-per
 ## Current Work
 
 ### CAESAR
-
 Developing a high-performance C++ implementation of a learned scientific compression method.
-
-- Bringing CAESAR from research code into a production HPC environment
-- Integrating CAESAR into scientific data workflows with ADIOS2
 
 ## Interests
 
